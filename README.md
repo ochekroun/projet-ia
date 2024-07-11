@@ -1,2 +1,2 @@
 # projet-ia
-Repo du projet is
+Repo du projet IA
